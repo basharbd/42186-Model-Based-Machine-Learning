@@ -113,6 +113,4 @@ report.pdf
 
 It summarizes the project motivation, data preprocessing, model formulation, inference method, evaluation results, posterior predictive checks, limitations, future work, and declaration of generative AI use.
 
-## Notes
 
-The project uses a subset of MovieLens to keep the experiment reproducible and feasible to run on a standard laptop. The goal is not to build the strongest possible recommender system, but to demonstrate a complete model-based machine learning workflow: define a generative story, implement the probabilistic model, perform inference, evaluate predictions, and check posterior predictive behavior.
