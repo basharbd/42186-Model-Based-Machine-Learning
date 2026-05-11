@@ -1,0 +1,11 @@
+Item,Value
+Dataset,MovieLens small subset
+Number of users,250
+Number of movies,400
+Number of observed ratings,29368
+Train ratings,23494
+Test ratings,5874
+Latent dimension,3
+Inference method,Stochastic Variational Inference
+Guide,AutoNormal
+Main metric,RMSE and MAE
